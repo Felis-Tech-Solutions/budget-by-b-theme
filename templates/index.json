@@ -48,49 +48,30 @@
         "show_text_below": false
       }
     },
-    "image_with_text_Y6KtB7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_aD4DxV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Budget kaarten voor iedereen!",
-            "heading_size": "h1"
-          }
-        },
-        "text_Bg4Px6": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Voor ieder speciaal moment en elk spaardoel, ontdek onze zorgvuldig samengestelde collectie. Wil je iets unieks? Dien een verzoek in voor een persoonlijke kaart. Vier het leven en inspireer spaardoelen met een kaart die spreekt uit het hart.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_yLCUyc": {
-          "type": "button",
-          "settings": {
-            "button_label": "Bekijk producten",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_aD4DxV",
-        "text_Bg4Px6",
-        "button_yLCUyc"
-      ],
+    "featured_collection_CjARrd": {
+      "type": "featured-collection",
       "settings": {
-        "image": "shopify:\/\/shop_images\/saving-money-in-piggy-bank.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -166,6 +147,53 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_Y6KtB7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_aD4DxV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Budget kaarten voor iedereen!",
+            "heading_size": "h1"
+          }
+        },
+        "text_Bg4Px6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Voor ieder speciaal moment en elk spaardoel, ontdek onze zorgvuldig samengestelde collectie. Wil je iets unieks? Dien een verzoek in voor een persoonlijke kaart. Vier het leven en inspireer spaardoelen met een kaart die spreekt uit het hart.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_yLCUyc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Bekijk producten",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aD4DxV",
+        "text_Bg4Px6",
+        "button_yLCUyc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/saving-money-in-piggy-bank.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_TWLjkc": {
       "type": "rich-text",
       "blocks": {
@@ -207,41 +235,13 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "featured_collection_CjARrd": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "frontpage",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "image_banner",
-    "image_with_text_Y6KtB7",
+    "featured_collection_CjARrd",
     "featured_product_7fxer4",
-    "rich_text_TWLjkc",
-    "featured_collection_CjARrd"
+    "image_with_text_Y6KtB7",
+    "rich_text_TWLjkc"
   ]
 }
