@@ -3,9 +3,9 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Budget_by_B_3.png",
+        "image": "shopify:\/\/shop_images\/Budget_by_B_4.png",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image_height": "large",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
