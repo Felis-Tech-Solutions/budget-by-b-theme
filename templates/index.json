@@ -179,11 +179,11 @@
         "button_UbUm7F": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Toon challenge",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0811\/6217\/4788\/files\/testpdf.pdf?v=1707469702",
             "button_style_secondary": false,
             "button_label_2": "",
-            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0811\/6217\/4788\/files\/testpdf.pdf?v=1707469702",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
