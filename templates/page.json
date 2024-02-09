@@ -33,13 +33,60 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 24,
         "padding_bottom": 52
+      }
+    },
+    "image_with_text_XwYx4E": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qGHWDR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Informatie over jezelf?",
+            "heading_size": "h1"
+          }
+        },
+        "text_B6LtEk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wil je hier wat informatie over jezelf plaatsen of wil wat meer over het merk, en zo ja wat dan?<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_W9FYRz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qGHWDR",
+        "text_B6LtEk",
+        "button_W9FYRz"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
-    "rich_text_QDPQKU"
+    "rich_text_QDPQKU",
+    "image_with_text_XwYx4E"
   ]
 }
