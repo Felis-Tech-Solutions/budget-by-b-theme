@@ -159,6 +159,48 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "rich_text_pPNhKj": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EAUkJR": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maandelijkse <strong>gratis<\/strong> challenge!",
+            "heading_size": "h0"
+          }
+        },
+        "text_pNK8CL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Iedere maand een nieuwe challenge om te printen!<br\/><br\/>Print direct de challenge van deze maand om deze te proberen!<\/p>"
+          }
+        },
+        "button_UbUm7F": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "https:\/\/cdn.shopify.com\/s\/files\/1\/0811\/6217\/4788\/files\/testpdf.pdf?v=1707469702",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_EAUkJR",
+        "text_pNK8CL",
+        "button_UbUm7F"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -166,6 +208,7 @@
     "featured_collection_CjARrd",
     "featured_collection_RPgAUG",
     "image_with_text_Y6KtB7",
-    "rich_text_TWLjkc"
+    "rich_text_TWLjkc",
+    "rich_text_pPNhKj"
   ]
 }
