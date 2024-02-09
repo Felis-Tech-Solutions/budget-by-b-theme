@@ -1,7 +1,31 @@
 {
   "sections": {
+    "rich_text_87paAE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Cn8eMa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Onze producten",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Cn8eMa"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -30,6 +54,7 @@
     }
   },
   "order": [
+    "rich_text_87paAE",
     "banner",
     "product-grid"
   ]
