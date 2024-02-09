@@ -1,1 +1,57 @@
-{"sections":{"main":{"type":"main-page","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_QDPQKU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_J4gnVD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Buget By B",
+            "heading_size": "h1"
+          }
+        },
+        "text_7fCHMC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Budet By B is ontstaan uit een creatieve passie en een zoektocht naar een nieuwe manier van sparen. <br\/>Wij geloven in de kracht van kleine stappen naar grote financiële vrijheid en bieden daarom unieke spaaruitdagingen om iedereen te helpen zijn spaardoelen te bereiken.<\/p>"
+          }
+        },
+        "button_KJVxBH": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_J4gnVD",
+        "text_7fCHMC",
+        "button_KJVxBH"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_QDPQKU"
+  ]
+}
