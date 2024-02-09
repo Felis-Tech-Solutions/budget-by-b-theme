@@ -44,77 +44,6 @@
         "padding_bottom": 36
       }
     },
-    "featured_product_7fxer4": {
-      "type": "featured-product",
-      "blocks": {
-        "text_RG6YEW": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_TjM4Pe": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_KTh7D7": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_f3hner": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_qjzezy": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_ezMxm7": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_A3iUEr": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_RG6YEW",
-        "title_TjM4Pe",
-        "price_KTh7D7",
-        "variant_picker_f3hner",
-        "quantity_selector_qjzezy",
-        "buy_buttons_ezMxm7",
-        "share_A3iUEr"
-      ],
-      "settings": {
-        "product": "test-producrt",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_Y6KtB7": {
       "type": "image-with-text",
       "blocks": {
@@ -174,7 +103,7 @@
         "text_8L7ica": {
           "type": "text",
           "settings": {
-            "text": "<p>Voor vragen kun je mailen naar ... of ons contact formulier invullen met een vraag.<\/p>"
+            "text": "<p>Voor vragen kun je mailen naar contact@budget-by-b.nl of ons contact formulier invullen met een vraag.<\/p>"
           }
         },
         "button_gfNDAe": {
@@ -207,7 +136,6 @@
   "order": [
     "image_banner",
     "featured_collection_CjARrd",
-    "featured_product_7fxer4",
     "image_with_text_Y6KtB7",
     "rich_text_TWLjkc"
   ]
