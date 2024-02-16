@@ -22,12 +22,12 @@
 
       ],
       "settings": {
-        "title": "Nieuwe producten",
+        "title": "Dieren spaar challenge",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "frontpage",
+        "collection": "spaar-challenge-dieren",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
