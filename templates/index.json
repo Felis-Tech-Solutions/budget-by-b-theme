@@ -19,7 +19,7 @@
     "featured_collection_CjARrd": {
       "type": "featured-collection",
       "custom_css": [
-        "button {border: 1px solid}"
+
       ],
       "settings": {
         "title": "Nieuwe producten",
