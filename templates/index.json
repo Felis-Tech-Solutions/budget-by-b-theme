@@ -68,7 +68,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "",
+            "button_link": "https:\/\/file:\/\/\/C:\/Users\/Bianca\/Downloads\/Koningsdag.pdf",
             "button_style_secondary": true
           }
         }
