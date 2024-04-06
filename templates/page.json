@@ -14,14 +14,14 @@
         "heading_J4gnVD": {
           "type": "heading",
           "settings": {
-            "heading": "Over ons",
+            "heading": "Recensies",
             "heading_size": "h1"
           }
         },
         "text_7fCHMC": {
           "type": "text",
           "settings": {
-            "text": "<p>Budet By B is ontstaan uit een creatieve passie en een zoektocht naar een nieuwe manier van sparen. <br\/>Wij geloven in de kracht van kleine stappen naar grote financiële vrijheid en bieden daarom unieke spaaruitdagingen om iedereen te helpen zijn spaardoelen te bereiken.<\/p>"
+            "text": "<p>Bekijk onze recensies!<\/p>"
           }
         }
       },
@@ -38,48 +38,34 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_XwYx4E": {
-      "type": "image-with-text",
+    "171239240692751473": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1712392436f8b0e979": {
+      "type": "apps",
       "blocks": {
-        "heading_qGHWDR": {
-          "type": "heading",
+        "judge_me_reviews_featured_carousel_NgHyAV": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
-            "heading": "Hey hey  ik ben Bianca, beter bekend als Budget By B. De B staat dus voor Bianca.",
-            "heading_size": "h2"
-          }
-        },
-        "text_B6LtEk": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wat leuk dat je een kijkje komt nemen  op mijn website!! Hier kan je challenges kopen voor al je spaardoelen. <\/p><p>Cash stuffing, een leuke manier van geld sparen!!<\/p><p>Neem zeker een kijkje op mijn TikTok (budget.by.b) of Instagram (budget.by.btje) daar staan allemaal leuke inspiratie video's en nog veel meer.<\/p><p>Heb je een bestelling geplaatst, dan word het tussen de 2 en de 5 werkdagen verzonden. <\/p><p>Heel veel plezier met sparen!!<\/p><p>Veel liefs Bianca.<\/p>",
-            "text_style": "body"
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "heading_qGHWDR",
-        "text_B6LtEk"
+        "judge_me_reviews_featured_carousel_NgHyAV"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_20.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "include_margins": true
       }
     }
   },
   "order": [
     "main",
     "rich_text_QDPQKU",
-    "image_with_text_XwYx4E"
+    "171239240692751473",
+    "1712392436f8b0e979"
   ]
 }
