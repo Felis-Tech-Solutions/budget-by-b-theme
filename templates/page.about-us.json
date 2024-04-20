@@ -38,23 +38,47 @@
         "padding_bottom": 52
       }
     },
-    "171239240692751473": {
-      "type": "apps",
+    "image_with_text_HjfGCd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Dn6HzP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Budget By By",
+            "heading_size": "h1"
+          }
+        },
+        "text_3daiWG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wat leuk dat je een kijkje komt nemen  op mijn website!! Hier kan je challenges kopen voor al je spaardoelen. <br\/>Cash stuffing, een leuke manier van geld sparen!!<br\/>Neem zeker een kijkje op mijn TikTok (budget.by.b) of Instagram (budget.by.btje) daar staan allemaal leuke inspiratie video's en nog veel meer.Heb je een bestelling geplaatst, dan word het tussen de 2 en de 5 werkdagen verzonden.Heel veel plezier met sparen!!<\/p><p>Veel liefs Bianca.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Dn6HzP",
+        "text_3daiWG"
+      ],
       "settings": {
-        "include_margins": true
-      }
-    },
-    "1712392436f8b0e979": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "rich_text_QDPQKU",
-    "171239240692751473",
-    "1712392436f8b0e979"
+    "image_with_text_HjfGCd"
   ]
 }
