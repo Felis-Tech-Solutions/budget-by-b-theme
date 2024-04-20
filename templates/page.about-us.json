@@ -21,7 +21,7 @@
         "text_7fCHMC": {
           "type": "text",
           "settings": {
-            "text": "<p>Bekijk onze recensies!<\/p>"
+            "text": "<p>Budet By B is ontstaan uit een creatieve passie en een zoektocht naar een nieuwe manier van sparen. Wij geloven in de kracht van kleine stappen naar grote financiële vrijheid en bieden daarom unieke spaaruitdagingen om iedereen te helpen zijn spaardoelen te bereiken.<\/p>"
           }
         }
       },
@@ -46,17 +46,6 @@
     },
     "1712392436f8b0e979": {
       "type": "apps",
-      "blocks": {
-        "judge_me_reviews_featured_carousel_NgHyAV": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "maxwidth": 1080
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_featured_carousel_NgHyAV"
-      ],
       "settings": {
         "include_margins": true
       }
