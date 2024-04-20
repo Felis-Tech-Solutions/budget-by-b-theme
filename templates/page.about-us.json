@@ -1,0 +1,71 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_QDPQKU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_J4gnVD": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h1"
+          }
+        },
+        "text_7fCHMC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Bekijk onze recensies!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J4gnVD",
+        "text_7fCHMC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
+    "171239240692751473": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1712392436f8b0e979": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_NgHyAV": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_NgHyAV"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_QDPQKU",
+    "171239240692751473",
+    "1712392436f8b0e979"
+  ]
+}
