@@ -61,6 +61,7 @@
         "text_3daiWG"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_20.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
