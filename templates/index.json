@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0562\/6337\/6990\/files\/Ontwerpzondertitel_70.png?v=1722612305",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0562\/6337\/6990\/files\/stitch_2.png?v=1726001322",
             "button_style_secondary": true
           }
         }
@@ -88,7 +88,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ontwerpzondertitel_70.png",
+        "image": "shopify:\/\/shop_images\/stitch_2.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
