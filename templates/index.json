@@ -12,7 +12,7 @@
     "image_banner": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Budget_by_B_4.png",
+        "image": "shopify://shop_images/Budget_by_B_4.png",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "top-center",
@@ -62,14 +62,14 @@
         "heading_MUd34V": {
           "type": "heading",
           "settings": {
-            "heading": "Maandelijkse <strong>GRATIS <\/strong>download!",
+            "heading": "Maandelijkse <strong>GRATIS </strong>download!",
             "heading_size": "h1"
           }
         },
         "text_Jbia4j": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!<\/strong><\/h3><p>Deze maand is het deze leuke stitch challenge.<\/p><p>Spaar €60,- met deze challenge<\/p><p>Deze stitch challenge is niet te koop op de website maar alleen GRATIS te dowloaden.<\/p><h3><strong>VEEL PLEZIER MET SPAREN!!!<\/strong><\/h3>",
+            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!</strong></h3><p>Deze maand is het deze leuke stitch challenge.</p><p>Spaar €60,- met deze challenge</p><p>Deze stitch challenge is niet te koop op de website maar alleen GRATIS te dowloaden.</p><h3><strong>VEEL PLEZIER MET SPAREN!!!</strong></h3>",
             "text_style": "body"
           }
         },
@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0562\/6337\/6990\/files\/stitch_2.png?v=1726001322",
+            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/stitch_2.png?v=1726001322",
             "button_style_secondary": true
           }
         }
@@ -88,7 +88,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/stitch_2.png",
+        "image": "shopify://shop_images/stitch_2.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -144,7 +144,7 @@
         "text_Bg4Px6": {
           "type": "text",
           "settings": {
-            "text": "<p>Hou jij ook aan het einde van je salaris een stukje maand over??? begin dan nu met cash stuffen en hou geld over aan het einde van de maand. Voor elk spaardoel is wel een challenge kaartje. Heel veel plezier met sparen.<\/p>",
+            "text": "<p>Hou jij ook aan het einde van je salaris een stukje maand over??? begin dan nu met cash stuffen en hou geld over aan het einde van de maand. Voor elk spaardoel is wel een challenge kaartje. Heel veel plezier met sparen.</p>",
             "text_style": "body"
           }
         },
@@ -152,7 +152,7 @@
           "type": "button",
           "settings": {
             "button_label": "Bekijk producten",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "button_style_secondary": true
           }
         }
@@ -163,7 +163,7 @@
         "button_yLCUyc"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Ontwerp_zonder_titel_19.png",
+        "image": "shopify://shop_images/Ontwerp_zonder_titel_19.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -191,14 +191,14 @@
         "text_8L7ica": {
           "type": "text",
           "settings": {
-            "text": "<p>Voor vragen kun je mailen naar contact@budget-by-b.nl. <br\/>If vul ons contact formulier met een vraag.<\/p>"
+            "text": "<p>Voor vragen kun je mailen naar info@budget-by-b.nl. <br/>Of vul ons contact formulier met een vraag.</p>"
           }
         },
         "button_gfNDAe": {
           "type": "button",
           "settings": {
             "button_label": "Contact pagina",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
