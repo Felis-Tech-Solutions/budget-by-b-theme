@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "image_banner": {
@@ -69,7 +69,7 @@
         "text_Jbia4j": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en Insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!</strong></h3><p>Deze maand is het deze leuke herfst challenge.</p><p>Spaar €215,- met deze challenge.</p><p>Deze herfst challenge is niet te koop op de website maar alleen GRATIS te dowloaden.</p><h3><strong>VEEL PLEZIER MET SPAREN!!!</strong></h3>",
+            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en Insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!</strong></h3><p>Deze maand is het deze leuke cadeau challenge.</p><p>Spaar een bedrag naar keuze met deze challenge. Jij bepaalt zelf welk bedrag een plaatje is en wat dan het totaal bedrag is.</p><p>Spaar voor cadeaus met deze leuke challenge.</p><p>Deze cadeau challenge is niet te koop op de website maar alleen GRATIS te dowloaden.</p><h3><strong>VEEL PLEZIER MET SPAREN!!!</strong></h3>",
             "text_style": "body"
           }
         },
@@ -77,7 +77,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/herfst.png?v=1727774165",
+            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/cadeau2.png?v=1730537397",
             "button_style_secondary": true
           }
         }
@@ -88,7 +88,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify://shop_images/herfst.png",
+        "image": "shopify://shop_images/cadeau2.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
