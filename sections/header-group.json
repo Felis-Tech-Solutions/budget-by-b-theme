@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Verzenden vanaf €75,00 gratis. Bestellingen worden binnen 4 a 5 werkdagen verzonden.",
+            "text": "LET OP!! Ik ben op vakantie, bestellingen worden vanaf 3 december weer verwerkt en verzonden.",
             "link": ""
           }
         }
@@ -25,9 +25,7 @@
       "block_order": [
         "announcement-bar-0"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "color_scheme": "background-1",
         "show_line_separator": true,
