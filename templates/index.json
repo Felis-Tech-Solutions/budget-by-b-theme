@@ -110,7 +110,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "best-verkocht",
-        "products_to_show": 5,
+        "products_to_show": 12,
         "columns_desktop": 5,
         "full_width": false,
         "show_view_all": true,
