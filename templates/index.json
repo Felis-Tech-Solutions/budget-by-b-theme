@@ -75,7 +75,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/valentijn.png?v=1738654731",
+            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/valentijngoed.png?v=1738655166",
             "button_style_secondary": true
           }
         }
@@ -86,7 +86,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify://shop_images/valentijn.png",
+        "image": "shopify://shop_images/valentijngoed.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
