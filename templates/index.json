@@ -67,7 +67,7 @@
         "text_Jbia4j": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en Insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!</strong></h3><p>Deze maand is het deze leuke valentijn challenge. Spaar alvast voor valentijnsdag van volgendjaar.</p><p>Deze valentijn challenge is niet te koop op de website maar alleen GRATIS te downloaden.</p><h3><strong>VEEL PLEZIER MET SPAREN!!!</strong></h3>",
+            "text": "<h3><strong>Elke maand een andere gratis download! Hou mijn TikTok en Insta in de gaten. Daar plaats ik een nieuwe video als er een nieuwe download online staat!!</strong></h3><p>Deze maand is het deze leuke lente challenge. Spaar €20,00 met deze challenge.</p><p>Ik heb het bedrag lekker laag gehouden zodat hij makkelijk voor iedereen te sparen is.</p><p>Deze lente challenge is niet te koop op de website maar alleen GRATIS te downloaden.</p><h3><strong>VEEL PLEZIER MET SPAREN!!!</strong></h3>",
             "text_style": "body"
           }
         },
@@ -75,7 +75,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/valentijngoed.png?v=1738655166",
+            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/spring.png?v=1740823907",
             "button_style_secondary": true
           }
         }
@@ -86,7 +86,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify://shop_images/valentijngoed.png",
+        "image": "shopify://shop_images/spring.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
