@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_9JVWfx": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "LET OP!! Ik ben op vakantie. Je kan gewoon bestellen. De bestellingen worden vanaf 17-03-2025 weer verwerkt en verzonden.",
+            "text": "\"Profiteer van onze snelle levering binnen 5 werkdagen! En hetmooiste is: bij bestellingen boven de 75 euro worden de verzendkosten helemaalgratis!\"",
             "link": ""
           }
         }
       },
       "block_order": [
+        "announcement_9JVWfx",
         "announcement-bar-0"
       ],
       "custom_css": [],
