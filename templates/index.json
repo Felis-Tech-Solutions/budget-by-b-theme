@@ -67,7 +67,7 @@
         "text_Jbia4j": {
           "type": "text",
           "settings": {
-            "text": "<h3><strong>Elke maand een nieuwe gratis download! 🎉 Zorg ervoor dat je mijn TikTok en Instagram in de gaten houdt, want daar post ik altijd een nieuwe video zodra er een nieuwe download beschikbaar is! 📲</strong></h3><p>Deze maand hebben we een superleuke pasen <strong>challenge</strong> voor jou! 🌸 Spaar maar liefst <strong>€100,00</strong> met deze schattige uitdaging! 💰</p><p>Download de gratis challenge en start vandaag nog<br/>met sparen! 🌷✨</p><p>Deze pasen challenge is exclusief GRATIS te<br/>downloaden en <strong>niet te koop op de website</strong>. Dus grijp je kans!</p><h3><strong>Veel plezier met sparen!</strong> 💸</h3>",
+            "text": "<h3><strong>Elke maand een nieuwe gratis download! 🎉 Zorg ervoor dat je mijn TikTok en Instagram in de gaten houdt, want daar post ik altijd een nieuwe video zodra er een nieuwe download beschikbaar is! 📲</strong></h3><p>Deze maand hebben we een superleuke zin in de zomer <strong>challenge</strong> voor jou! 🌸 Spaar een bedrag naar eigen keuze met deze leuke uitdaging! 💰</p><p>Download de gratis challenge en start vandaag nog<br/>met sparen! 🌷✨</p><p>Deze zomer challenge is exclusief GRATIS te downloaden en</p><p><strong>niet te koop op de website</strong>. Dus grijp je kans!</p><h3><strong>Veel plezier met sparen!</strong> 💸</h3>",
             "text_style": "body"
           }
         },
@@ -75,7 +75,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download nu gratis!",
-            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/downloadapril.png?v=1744101217",
+            "button_link": "https://cdn.shopify.com/s/files/1/0562/6337/6990/files/zinindezomer.png?v=1746440479",
             "button_style_secondary": true
           }
         }
@@ -86,7 +86,7 @@
         "button_dmVV7F"
       ],
       "settings": {
-        "image": "shopify://shop_images/downloadapril.png",
+        "image": "shopify://shop_images/zinindezomer.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
