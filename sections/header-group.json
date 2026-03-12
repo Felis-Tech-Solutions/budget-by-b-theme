@@ -14,16 +14,16 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
+        "announcement_8iWxLi": {
           "type": "announcement",
           "settings": {
-            "text": "LET OP!!!! Wij zijn op vakantie. Je kan gewoon bestellen, alle bestellingen worden vanaf maandag 09-03-2026 weer verwerkt en verzonden.",
+            "text": "Verzendkosten boven de €75,00 zijn gratis. Bestellingen worden verzonden binnen 5 werkdagen.",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_8iWxLi"
       ],
       "custom_css": [],
       "settings": {
