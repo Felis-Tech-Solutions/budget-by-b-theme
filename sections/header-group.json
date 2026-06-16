@@ -14,16 +14,8 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_X9AWTK": {
-          "type": "announcement",
-          "settings": {
-            "text": "LET OP! Wij zijn op vakantie. Bestellen kan gewoon alleen worden de bestellingen vanaf 14-06-2026 weer verwerkt en verzonden. Tot snel 💋",
-            "link": ""
-          }
-        },
         "announcement_8iWxLi": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Bij een bestelling boven de €75,00 GRATIS verzenden. De bestellingen worden binnen 5 werkdagen verzonden.",
             "link": ""
@@ -31,7 +23,6 @@
         }
       },
       "block_order": [
-        "announcement_X9AWTK",
         "announcement_8iWxLi"
       ],
       "custom_css": [],
