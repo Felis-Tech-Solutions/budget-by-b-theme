@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_c87MEj": {
+          "type": "announcement",
+          "settings": {
+            "text": "LET OP!! Wij zijn op vakantie, je kan gewoon bestellen. Alle bestellingen worden vanaf 17-08-2026 weer verwerkt en verzonden.",
+            "link": ""
+          }
+        },
         "announcement_8iWxLi": {
           "type": "announcement",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "announcement_c87MEj",
         "announcement_8iWxLi"
       ],
       "custom_css": [],
