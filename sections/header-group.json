@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_c87MEj": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "LET OP!! Wij zijn op vakantie, je kan gewoon bestellen. Alle bestellingen worden vanaf 17-08-2026 weer verwerkt en verzonden.",
             "link": ""
@@ -23,7 +24,6 @@
         },
         "announcement_8iWxLi": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "Bij een bestelling boven de €75,00 GRATIS verzenden. De bestellingen worden binnen 5 werkdagen verzonden.",
             "link": ""
