@@ -11,10 +11,11 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Budget_by_B_4.png",
+        "image": "shopify://shop_images/FullSizeRender_459d3c8d-2e9e-4e0f-a0c4-70f689f9a12a.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "top-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
